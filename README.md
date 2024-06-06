@@ -2,8 +2,6 @@
 <div>
 <img align='right' src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-max-1mb.gif" width="230">
 <p><em>
-Computer Science Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Jul 2021 - Currently)
-</br>Front-end Developer at <a href="https://ejcm.com.br/">EJCM</a>. (Mar 2021 - Nov 2021)
 </br>IT Management Analyst at <a href="https://www.itau.com.br/">Itaú Unibanco</a>. (Nov 2021 - Currently)
 </em></p><br>
 </div>
