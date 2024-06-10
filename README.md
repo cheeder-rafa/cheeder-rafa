@@ -55,17 +55,17 @@ I'll introduce myself shortly so you can get to know me better
 
 ## Public information
 
-My name is Rafael Ribeiro. Currently studying Computer Science and working as a Front-end Developer at EJCM, a Junior Company at the University.
+My name is Rafael Ribeiro. Currently studying Computer Science and working as a Back-end Developer at Itaú Unibanco.
 
 I discovered programming when I was around 15 years old, when my favorite game ended its activities and I decided to help friends with the creation of a new server. Although I barely understood what a line of code was, the feeling of creating something stayed with me, and years later I started to study about it.
 
 ## Detailed information
 
 * **Name**: Rafael Ribeiro
-* **Age**: 24
-* **Living in**: Mendes - Rio de Janeiro, Brazil
-* **Stack**: JavaScript - React/Native - SQL - Node.js (Express)
-* **University**: Federal University of Rio de Janeiro
+* **Age**: 27
+* **Living in**: Seropédica - Rio de Janeiro, Brazil
+* **Stack**: Java (Spring Boot) - JavaScript - React/Native - SQL - Node.js (Express) - AWS
+* **University**: Cruzeiro do Sul
 
 ## Curiosities about me
 
